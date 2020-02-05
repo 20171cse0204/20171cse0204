@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML Frames</title>
+</head>
+<frameset rows="10%,80%,100%">
+<frame name="top"src="/home/6CSE3/Desktop/timetable"/>
+<frame name="main"src="/home/6CSE3/Desktop/Resume"/>
+<noframes>
+<body>Your browser does not support frames.</body>
+</noframes>
+</frameset>
+</html>
